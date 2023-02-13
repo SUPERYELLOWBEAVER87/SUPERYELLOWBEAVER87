@@ -1,4 +1,5 @@
-hEY i
+Hey I'm Sam.
+I code for fun and I write automation scripts for the University of South Carolina.
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUPERYELLOWBEAVER87&count_private=true&theme=radical)](https://github.com/SUPERYELLOWBEAVER87/github-readme-stats)
 
